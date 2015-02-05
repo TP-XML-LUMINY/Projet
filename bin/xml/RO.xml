@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../xsl/master.xsl" type="text/xsl" media="screen"?>
+<!DOCTYPE masterInfo SYSTEM "../dtd/master.dtd">
+
+<master>
+	&menu;
+	<parcours annee="RO">
+		<presentation>
+			<refprof id="yann.vaxes"/>
+			<lieu>
+				<campus>Campus de Luminy</campus>
+			</lieu>
+			<description>
+				<paragraphe>La recherche opérationnelle consiste à utiliser des méthodes et des modèles pour résoudre des problèmes complexes d'organisation, de planification, de gestion de ressources, ou d'optimisation issus de nombreux secteurs d'activités comme le transport, l'industrie, les télécommunications, la finance... La résolution de ces problèmes constitue un enjeu économique et industriel important. La conception d'applications décisionnelles requiert une phase de spécification et d'extraction de données lors de laquelle les compétences acquises par les étudiants de la spécialité ID dans le domaine de la fouille et des entrepôts de données sera particulièrement utile. Elle nécessite également des connaissances fondamentales dans le domaine de la modélisation et de l'optimisation et une très bonne maîtrise des outils nécessaires pour concevoir et développer des applications décisionnelles (langages de modélisation, solveurs, structures de données, algorithmes…).</paragraphe>
+			</description>
+		</presentation>
+		<competences>
+			<liste>
+				<el>Anglais, Communication et JEE.</el>
+				<el>Créer, maintenir et optimiser des bases de données et/ou des entrepôts de données.</el>
+				<el>Mettre en place des solutions de fouilles de données pour diverses domaines comme le marketing, les études de produits et de clientèle, l’aide à la décision, la veille technologique...</el>
+				<el>Optimisation combinatoire, programmation mathématique, langages de modélisation, algorithmique des graphes et réseaux.</el>
+			</liste>
+		</competences>
+		<connaissances>
+			<paragraphe>Outre les connaissances généralistes comme l’anglais, la communication et JEE (Java Enterprise Edition), les étudiants acquerront les notions fondamentales de l’Informatique Décisionnelle qui regroupe l’administration de bases de données et la modélisation des problèmes (concevoir et constituer un réservoir exploitable de données et définir la stratégie d’exploitation en vue d’une analyse de données), l’optimisation linéaire (modéliser et résoudre un problème d’optimisation), la fouille de bases de données (extraire des informations intéressantes non préalablement connues).</paragraphe>
+		</connaissances>
+		<programme semestre="3">
+			<paquet_unites>
+				<nom>Tronc-commun des parcours FED et RO </nom>
+				<refunite id="ENSINCU27"/>
+				<refunite id="ENSINCU28"/>
+				<refunite id="ENSINCU30"/>
+				<refunite id="ENSINCU40"/>
+				<refunite id="ENSINCU48"/>
+				<refunite id="ENSINCU49"/>
+				<refunite id="ENSINCU50"/>
+				<refunite id="ENSINCU70"/>
+				<refunite id="ENSINCU53"/>
+			</paquet_unites>
+			<paquet_unites>
+				<nom>Unité d'enseignement à bonus</nom>
+				<refunite id="ENSINCU67"/>
+			</paquet_unites>
+			<paquet_unites>
+				<nom>Unités obligatoires</nom>
+				<refunite id="ENSINCU54"/>
+			</paquet_unites>
+		</programme>
+		<programme semestre="4">
+			<paquet_unites>
+				<nom>Unités obligatoires</nom>
+				<refunite id="ENSINDU3"/>
+				<refunite id="ENSINDU4"/>
+			</paquet_unites>
+		</programme>
+		<politique_des_stages>
+			<paragraphe>Les stages sont optionnels en première année (2 mois), obligatoires en deuxième année (4 à 6 mois). La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues, etc.). Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. Les sujets doivent vérifier un cahier des charges qui est donné aux étudiants en début d'année. Le stage peut alors débuter. Durant la période de stage, un rapport d'avancement est demandé régulièrement au stagiaire (tous les mois). Les éventuels problèmes sont ainsi décelés au plus tôt. A l'issue du stage, le stagiaire doit fournir un rapport de stage et faire une soutenance orale. Il est noté sur la base de son rapport, de sa présentation et de l'évaluation du stage faite par son tuteur en entreprise.</paragraphe>
+		</politique_des_stages>
+		<aspects_formation>
+			<paragraphe>En premier lieu, la formation au niveau M1 est caractérisée par un ensemble de cours fondamentaux qui préparent aux spécialités recherche et professionnelles. Ensuite, grâce aux UE optionnelles, les étudiants peuvent choisir des cours plutôt à vocation recherche. Enfin, l'UE projet ou stage peut être dédiée complètement à la recherche : stage dans un laboratoire, ou projet à vocation recherche.</paragraphe>
+		</aspects_formation>
+		<enseignements_delocalises>
+			<paragraphe>Ce master bénéficie de plusieurs contrats Erasmus. Trois contrats de longue date avec les universités de Tübingen et Hannovre (Allemagne) et avec l'université anglophone d'Uppsala (Suède) ont déjà permis des échanges d'étudiants en M1 et M2. Un contrat plus récent avec les université techniques de Munich (Allemagne) et Vienne (Autriche) sont actifs et permettent également des échanges au niveau Master 1 et 2 (le plus souvent sur un semestre), puis au niveau doctoral.</paragraphe>
+			<liste>
+				<paragraphe>Établissements avec lesquels nous avons un accord Erasmus :</paragraphe>
+				<el>Allemagne, Hannovre, Gottfried Wilhelm Leibniz Universität</el>
+				<el>Allemagne, Munich, Technische Universität München</el>
+				<el>Allemagne, Tübingen, Eberhard Karls Universität</el>
+				<el>Vienne, Autriche, Technische Universität Wien</el>
+				<el>Suède, Uppsala, Uppsala Universitet</el>
+			</liste>
+			<liste>
+				<paragraphe>Autres établissements avec lesquels nous avons un accord :</paragraphe>
+				<el>Belgique, Namur, Facultés Universitaires Notre Dame de la Paix</el>
+				<el>Bulgarie, Sofia, Tehnicheski Universitet</el>
+				<el>Espagne, Séville, Universidad de Sevilla</el>
+				<el>Italie, Sienne, Univ. di Siena</el>
+				<el>Roumanie, Brasov, Universitatea Transilvania din Brasov</el>
+			</liste>
+			<liste>
+				<paragraphe>Établissements canadiens avec lesquels nous avons un accord :</paragraphe>
+				<el>Université de Montréal</el>
+				<el>Université d'Ottawa</el>
+				<el>Université de Victoria</el>
+				<el>Université Western Ontario</el>
+			</liste>
+		</enseignements_delocalises>
+		<conditions_admission>
+			<paragraphe>Après l'étude des dossiers des candidats, le jury d'admission constitué à partir des membres de l'équipe pédagogique statue sur l'admission de chacun d'eux.</paragraphe>
+			<lien link="http://masterinfo.univ-mrs.fr/candidature/">Déposer une candidature pour 2014/2015.</lien>
+		</conditions_admission>
+		<debouches>
+			<liste>
+				<el>Administrateur de bases de données ou d’entrepôts de données.</el>
+				<el>Extraction, transformation et chargement des données.</el>
+				<el>Gestion, exploitation et optimisation de bases et entrepôts de données.</el>
+				<el>Mettre en place et exploiter toutes les phases du processus de l’informatique décisionnelle (compréhension et modélisation du problème, conception du système d’information nécessaire, indicateur de mesure pour réaliser les analyses pour la prise de décisions, les processus de fouille et d’optimisation, la restitution de l’analyse).</el>
+				<el>Études et développement informatique.</el>
+				<el>Conseil et maîtrise d’ouvrage en système d’information</el>
+				<el>Expertise et support technique en système d’information</el>
+				<el>Administration de systèmes d'information</el>
+			</liste>
+		</debouches>
+		<poursuites>
+			<paragraphe>Il est possible de poursuivre en thèse de doctorat notamment grâce à des bourses CIFRE en partenariat avec des entreprises.</paragraphe>
+		</poursuites>
+	</parcours>
+</master>

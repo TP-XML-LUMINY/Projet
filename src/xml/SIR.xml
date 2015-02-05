@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../xsl/master.xsl" type="text/xsl" media="screen"?>
+<!DOCTYPE masterInfo SYSTEM "../dtd/master.dtd">
+
+<master>
+	&menu;
+	<parcours annee="SIR">
+		<presentation>
+			<refprof id="omar.boucelma"/>
+			<lieu>
+				<campus>Campus de Saint-Jérôme</campus>
+			</lieu>
+			<description>
+				<paragraphe>Le programme vise la formation de spécialistes dans des métiers à forte valeur ajoutée au travers des compétences acquises dans trois domaines clés de l’informatique : les technologies avancées du Web (services web, multimédia, etc.), les nouveaux modes de développement du logiciel (Cloud, Mobile, etc.) et les processus métiers de l’entreprise.</paragraphe>
+			</description>
+		</presentation>
+		<competences>
+			<liste>
+				<el>Réaliser des systèmes d’information répartis sur Internet à l’aide d’architectures de type JEE ou SOA.</el>
+				<el>Maîtriser les nouvelles technologies logicielles&#160;: Services Web, Cloud Computing, et applications Mobiles.</el>
+				<el>Développer et exploiter les Réseaux Sociaux pour des applications d’entreprise et grand public.</el>
+				<el>Maîtriser des technologies logicielles clés pour l’entreprise (BPM, ERP, etc.).</el>
+				<el>Acquérir des compétences en management de projet.</el>
+			</liste>
+		</competences>
+		<connaissances>
+			<paragraphe>Durant la formation, l’étudiant consolidera d’abord ses connaissances de base dans le domaine des logiciels et systèmes d’information répartis (architecture N-tier, JEE, etc.). Par la suite, il effectuera une montée en compétence dans les technologies suivantes : les technologies avancées du Web (Services Web, Réseaux Sociaux, Multimédia, etc.), les nouvelles architectures logicielles (SOA, Cloud), les Réseaux Sociaux, la programmation Mobile ou encore les processus métiers (BPM, ERP, etc).</paragraphe>
+		</connaissances>
+		<programme semestre="3">
+			<paquet_unites>
+				<nom>Unités obligatoires</nom>
+				<refunite id="ENSINCU60"/>
+				<refunite id="ENSINCU61"/>
+				<refunite id="ENSINCU63"/>
+				<refunite id="ENSINCU64"/>
+				<refunite id="ENSINCU65"/>
+				<refunite id="ENSINCU68"/>
+				<refunite id="ENSINCU27"/>
+				<refunite id="ENSINCU28"/>
+			</paquet_unites>
+		</programme>
+		<programme semestre="4">
+			<paquet_unites>
+				<nom>Unités obligatoires</nom>
+				<refunite id="ENSINDU3"/>
+				<refunite id="ENSINDU4"/>
+			</paquet_unites>
+		</programme>
+		<politique_des_stages>
+			<paragraphe>Les étudiants sont fortement encouragés à trouver le stage, d’une durée de 5 à 6 mois, en adéquation avec leur projet professionnel. La validation du sujet de stage est effectuée par l’équipe pédagogique. Le projet tutoré, en liaison éventuelle avec un partenaire industriel permet une mise en œuvre pratique à échelle réelle.</paragraphe>
+		</politique_des_stages>
+		<aspects_formation>
+			<paragraphe>La formation est fortement adossée à la recherche : les enseignants chercheurs membres de l'équipe pédagogique effectuent leur recherche dans les domaines de compétence visés par la formation. L’équipe a contribué dans les domaines suivants : intégration de données hétérogènes et réparties, services web, technologies XML, e-Learning, personnalisation pour les Mobiles, et sécurité dans le Cloud.</paragraphe>
+			<paragraphe>Ce lien enseignement-recherche assure une actualisation pérenne des programmes et une anticipation des demandes issues de la profession.</paragraphe>
+		</aspects_formation>
+		<conditions_admission>
+			<pre_requis type="obligatoires">
+				<paragraphe>Compétences acquises à la sortie d’un Master 1 Informatique.</paragraphe>
+			</pre_requis>
+			<pre_requis type="recommandés">
+				<liste>
+					<el>Connaissance des briques de base qui composent une architecture répartie : bases de données, Java, XML</el>
+					<el>Appétence pour les nouvelles technologies</el>
+				</liste>
+			</pre_requis>
+			<paragraphe>L’admission en M2 se fait sur dossier pour les étudiants titulaires d'un M1 informatique ou équivalent. L’admission est possible pour le public en formation continue dans le cadre de la VAE ou VAP.</paragraphe>
+			<lien link="http://masterinfo.univ-mrs.fr/candidature/">Déposer une candidature pour 2014/2015.</lien>
+		</conditions_admission>
+		<debouches>
+			<paragraphe>La spécialité SIR vise des métiers de l’informatique à forte valeur ajoutée grâce aux compétences acquises dans trois domaines clés : les technologies avancées du Web, les nouveaux modes de développement et de déploiement de solutions logicielles et les processus métiers de l’entreprise.</paragraphe>
+			<liste>
+				<paragraphe>Parmi les métiers visés on trouve :</paragraphe>
+				<el>Architecte en Systèmes d’Information,</el>
+				<el>Ingénieur Développement Logiciels,</el>
+				<el>Ingénieur Intégration,</el>
+				<el>Consultant ERP/BPM,</el>
+				<el>Chef de projet.</el>
+			</liste>
+		</debouches>
+		<poursuites>
+			<paragraphe>La poursuite d'études en doctorat est envisageable.</paragraphe>
+		</poursuites>
+	</parcours>
+</master>

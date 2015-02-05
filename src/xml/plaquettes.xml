@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<master>
+
+<plaquette>
+
+<paragraphe>Vous pouvez télécharger :</paragraphe>
+<paragraphe>
+<liste>
+<el><lien link="http://masterinfo.univ-mrs.fr/plaquettes/ME5SIN-Master_Informatique.pdf">Plaquette 2014/2015 du Master Informatique.</lien></el>
+<el><lien link="http://masterinfo.univ-mrs.fr/plaquettes/master-informatique-2014.pdf">Transparents de présentation du Master Informatique.</lien></el>
+</liste>		
+</paragraphe>
+</plaquette>
+
+
+</master>
