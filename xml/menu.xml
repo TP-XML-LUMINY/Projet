@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<lien link="MASTER.xml" class="menu1 menu-normal">Parcours</lien>
+	<lien link="./Master1.xml" class="menu2 menu-normal">Master 1</lien>
+	<lien link="./FSIL.xml" class="menu2 menu-normal">Spécialité FSIL :</lien>
+	<lien link="./FSI.xml" class="menu3 menu-normal">Parcours FSI</lien>
+	<lien link="./ISL.xml" class="menu3 menu-normal">Parcours ISL</lien>
+	<lien link="./GL.xml" class="menu2 menu-normal">Spécialité GL</lien>
+	<lien link="./ID.xml" class="menu2 menu-normal">Spécialité ID :</lien>
+	<lien link="./FED.xml" class="menu3 menu-normal">Parcours FED</lien>
+	<lien link="./RO.xml" class="menu3 menu-normal">Parcours RO</lien>
+	<lien link="./IF.xml" class="menu2 menu-normal">Spécialité IF</lien>
+	<lien link="./RIM.xml" class="menu2 menu-normal">Spécialité RIM</lien>
+	<lien link="./SIR.xml" class="menu2 menu-normal">Spécialité SIR</lien>
+	<lien link="./SIS.xml" class="menu2 menu-normal">Spécialité SIS :</lien>
+	<lien link="./INF.xml" class="menu3 menu-normal">Parcours INF</lien>
+	<lien link="./contacts.xml" class="menu1 menu-normal">Contacts</lien>
+	<lien link="./" class="menu1 menu-normal">Plaquettes</lien>
+	<lien link="./Unites.xml" class="menu1 menu-normal">Les unités</lien>
+	<lien link="./intervenants.xml" class="menu1 menu-normal">Les intervenants</lien>
+	<lien link="./" class="menu1 menu-normal">Infos pratiques 14/15</lien>
+	<lien link="./" class="menu2 menu-normal">Rentrée 2014</lien>
+	<lien link="./" class="menu1 menu-normal">Annuaire</lien>
+	<lien link="./" class="menu1 menu-normal">2014/2015</lien>
+	
+	
+</menu>

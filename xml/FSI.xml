@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../xsl/master.xsl" type="text/xsl" media="screen"?>
+<!DOCTYPE masterInfo SYSTEM "../dtd/master.dtd">
+
+<master>
+	<parcours annee="FSI">
+		<presentation>
+			<refprof id="denis.lugiez"/>
+			<lieu>
+				<campus>Campus de Luminy</campus>
+			</lieu>
+			<description>
+				<paragraphe>La formation donne les principes et techniques liés à la conception de systèmes informatiques surs dans un environnement ouvert et hétérogène. Elle forme les étudiants aux principes et méthodes de développement modernes qui reposent sur des outils de prototypage, de test et de suivi de logiciels, avec des méthodologies normalisées. Elle apporte des compétences fortes en sécurité informatique dans les domaines liés à l'échange d'information (Web-services, protocoles de communication et cryptographiques,..) et à la communication entre systèmes (réseaux hétérogènes et applications embarquées ou distribuées).</paragraphe>
+			</description>
+		</presentation>
+		<competences>
+			<liste>
+				<el>Anglais, Communication, Gestion de projet</el>
+				<el>Méthode de développement logiciel (Spécification, Tests, Evaluation de performance)</el>
+				<el>Savoir définir et mettre en œuvre les méthodes de sécurité informatique dans un environnement distribué et ouvert</el>
+				<el>Savoir spécifier, concevoir et réaliser un système logiciel et matériel complexe</el>
+				<el>Programmation de systèmes embarqués</el>
+			</liste>
+		</competences>
+		<connaissances>
+			<paragraphe>L'objectif de la spécialité FSIL est de former des étudiants afin qu'ils puissent concevoir, réaliser, valider et mettre en exploitation des logiciels. Pour ce faire, ils devront connaître les concepts, les outils et les méthodes liés au développement de logiciels. Les aspects de qualité, de sécurité et de bonne intégration dans des environnements informatiques complexes seront les points forts de la formation.</paragraphe>
+		</connaissances>
+		<programme semestre="3">
+			<paquet_unites>
+				<nom>TC des parcours FSI et ISL</nom>
+				<refunite id="ENSINCU27"/>
+				<refunite id="ENSINCU28"/>
+				<refunite id="ENSINCU29"/>
+				<refunite id="ENSINCU30"/>
+				<refunite id="ENSINCU31"/>
+			</paquet_unites>
+			<paquet_unites>
+				<nom>Unité d'enseignement à bonus</nom>
+				<refunite id="ENSINCU67"/>
+			</paquet_unites>
+			<paquet_unites>
+				<nom>Unités obligatoires </nom>
+				<refunite id="ENSINCU32"/>
+				<refunite id="ENSINCU33"/>
+				<refunite id="ENSINCU34"/>
+				<refunite id="ENSINCU35"/>
+			</paquet_unites>
+		</programme>
+		<programme semestre="4">
+			<paquet_unites>
+				<nom>Unités obligatoires </nom>
+				<refunite id="ENSINDU3"/>
+				<refunite id="ENSINDU4"/>
+			</paquet_unites>
+		</programme>
+		<politique_des_stages>
+			<paragraphe>Les stages sont optionnels en première année (2 mois), obligatoires en deuxième année (4 à 6 mois). La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues, etc.). Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. Les sujets doivent vérifier un cahier des charges qui est donné aux étudiants en début d'année. Le stage peut alors débuter. Durant la période de stage, un rapport d'avancement est demandé régulièrement au stagiaire (tous les mois). Les éventuels problèmes sont ainsi décelés au plus tôt. A l'issue du stage, le stagiaire doit fournir un rapport de stage et faire une soutenance orale. Il est noté sur la base de son rapport, de sa présentation et de l'évaluation du stage faite par son tuteur en entreprise.</paragraphe>
+		</politique_des_stages>
+		<conditions_admission>
+			<pre_requis>
+				<paragraphe>L'entrée en deuxième année se fait uniquement sur dossier. Une première année de Master à dominante informatique est requise (60 crédits). Tout autre diplôme de niveau équivalent sera également étudié. La deuxième année du Master est également accessible par le biais de la VAP et de la VAE.</paragraphe>
+			</pre_requis>
+			<lien link="http://masterinfo.univ-mrs.fr/candidature/">Déposer une candidature pour 2014/2015.</lien>
+		</conditions_admission>
+		<debouches>
+			<paragraphe>Les secteurs d'activités concernés sont tous ceux qui utilisent et développent des applications informatiques, avec des pré-requis forts de fiabilité (qualité logicielle) et sécurité (protection contre les actions malveillantes). Les SSII forment une part importante des débouchés mais de grands groupes de l'industrie (transports, électronique, défense,...) ou des services (banques, assurance,..) sont également des employeurs. Les PME innovantes en informatique (éditeurs, prestataires de services, ...) et les collectivités territoriales et établissements publics complètent le secteur d'activité.</paragraphe>
+			<liste>
+				<paragraphe>Métiers visés pour le parcours FSI :</paragraphe>
+				<el>Ingénieur études et développement,</el>
+				<el>Responsable réseaux,</el>
+				<el>Responsable systèmes et sécurité,</el>
+				<el>Ingénieur qualité.</el>
+			</liste>
+			<liste>
+				<paragraphe>Métiers visés par le parcours ISL :</paragraphe>
+				<el>Ingénieur études et développement,</el>
+				<el>Architecte logiciel,</el>
+				<el>Ingénieur en système d'information,</el>
+				<el>Expert technique ou fonctionnel.</el>
+			</liste>
+		</debouches>
+		<poursuites>
+			<liste>
+				<el>Un doctorat est envisageable à l'issue de la spécialité FSIL.</el>
+				<el>Les diplômés ont également la possibilité de choisir des formations plus axées sur la gestion des projets scientifiques pourceux qui visent des postes à forte responsabilité.</el>
+				<el>Il est également envisageable de suivre une autre spécialité du même master ou d'un autre pour enrichir son portefeuille de compétences.</el>
+			</liste>
+		</poursuites>
+	</parcours>
+</master>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<master>
+
+<candidatures>
+
+<prealables>
+	<paragraphe>
+		<liste>
+			<el>Si vous êtes un étudiant étranger hors union européenne, vous devriez déposer une candidature en passant par Campus France (voir à la fin de ce document) ;</el>
+			<el>Une candidature en deuxième année permet également de postuler pour la première année du master en cas d'échec ;</el>
+		</liste>
+	</paragraphe>
+</prealables>
+
+<candidature_m1>
+	<paragraphe>
+	Les candidatures en M1 pour 2015/2016 ne sont pas ouvertes. Si vous voulez être prévenu par courrier électronique de l'ouverture des candidatures,
+	vous pouvez <lien link="mailto:toto@toto.fr">nous envoyer une demande</lien> (attention : cette adresse n'est pas destinée à recevoir des demandes d'informations).
+	Ouverture prévue : avril 2015.
+	</paragraphe>
+</candidature_m1> 
+
+
+<candidature_m2>
+	<paragraphe>
+	Les candidatures en M2 pour 2015/2016 ne sont pas ouvertes. Si vous voulez être prévenu par courrier électronique de l'ouverture des candidatures, vous pouvez nous envoyer une demande.
+	Attention : cette adresse mail n'est pas destinée à recevoir des demandes d'informations.
+	</paragraphe>
+		<paragraphe>
+		Calendrier prévisionnel :
+		<liste>
+		<el>Mai 2015 : ouverture des candidatures en 2ème année des sept spécialités.</el>
+		<el>Fin juin 2015 : fin du dépôt des candidatures.</el>
+		<el>Juillet 2015 : publication des résultats.</el>
+		<el>Fin juillet 2015 : publication des dates de pré-rentrée et rentrée.</el>
+		<el>Septembre 2015 : clôture de la liste d'attente.</el>
+		</liste>
+		</paragraphe>
+</candidature_m2> 
+
+
+<candidature_campus>
+
+<paragraphe>
+	TRÈS IMPORTANT POUR LES ÉTUDIANTS ÉTRANGERS HORS UNION EUROPÉENNE.
+	Le Ministère Français des affaires étrangères a mis en place une procédure centralisée de candidature aux formations dispensées en France appelée Campus France.
+	<lien link="http://www.campusfrance.org/fr/">http://www.campusfrance.org/</lien>
+</paragraphe>
+
+<paragraphe>
+	<liste>
+	<el>Étape 1 : Si votre pays est couvert par cette procédure, vous devez IMPÉRATIVEMENT déposer une candidature sur le site de Campus France pour obtenir un numéro de dossier CEF. Cette étape est obligatoire pour obtenir un VISA.</el>
+	<el>Étape 2 : Les candidatures CEF seront étudiées fin juin et les résultats seront envoyés par courrier électronique.</el>
+	</liste>
+</paragraphe>
+
+<paragraphe>
+Pays concernés :
+ALGÉRIE, ARGENTINE, BÉNIN, BRESIL, CAMEROUN, CANADA, CHILI, CHINE, COLOMBIE, CONGO BRAZZAVILLE, CORÉE DU SUD, CÔTE D'IVOIRE, ÉTATS-UNIS, GABON, GUINÉE, INDE, LIBAN, MADAGASCAR, MALI, MAROC, MAURICE, MEXIQUE, RÉPUBLIQUE TCHÈQUE, RUSSIE, SÉNÉGALE, SYRIE, TAIWAN, TUNISIE, TURQUIE, VIETNAM.
+</paragraphe>
+
+</candidature_campus>
+
+<candidature_formation>
+
+<paragraphe>
+Toute personne qui appartient à l'une des catégories suivantes - salarié, profession libérale, demandeur d'emploi (indemnisé ou non), bénéficiaire du RSA, étudiant sortant d'une formation par alternance, personne en reprise d'étude, ou toute personne n'ayant pas le niveau requis pour intégrer la formation ou souhaitant demander une Validation des Acquis et de l'Expérience (VAE) doit obligatoirement contacter le Service Formation Continue du lieu d'enseignement.
+</paragraphe>
+
+<paragraphe>
+<liste>
+<el>Site de Luminy : Sylvie RISCH  04 91 82 93 16</el>
+<el>Site de St Jérôme : Sophie SILVY  04 91 28 89 01</el>
+</liste>
+</paragraphe>
+
+</candidature_formation>
+
+</candidatures>
+
+
+</master>

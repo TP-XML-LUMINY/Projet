@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT table (caption?,tr*)>
+<!ELEMENT tr (th|td)*>
+<!ELEMENT lien (#PCDATA|b|i|tt|u)*>
+<!ELEMENT liste (paragraphe?,(el)+)>
+
+<!ELEMENT paragraphe (#PCDATA|b|i|tt|u|liste|lien)*>
+<!ELEMENT el (#PCDATA|b|i|tt|u|lien)*>
+<!ELEMENT b	(#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+<!ELEMENT tt (#PCDATA)>
+<!ELEMENT u (#PCDATA)>
+<!ELEMENT th (#PCDATA|b|i|tt|u|liste|lien|br)*>
+<!ELEMENT td (#PCDATA|b|i|tt|u|liste|lien|br)*>
+<!ELEMENT br EMPTY>
+
+<!ATTLIST br
+	clear CDATA #IMPLIED
+	>
+<!ATTLIST liste
+	type CDATA "ul"
+	>
+<!ATTLIST lien
+	link CDATA #REQUIRED
+	class CDATA #IMPLIED
+	>
+<!ATTLIST table
+	class CDATA #IMPLIED
+	>
+<!ATTLIST tr
+	class CDATA #IMPLIED
+	>
+<!ATTLIST td
+	colspan CDATA "1"
+	rowspan CDATA "1"
+	class CDATA #IMPLIED
+	>
+<!ATTLIST th
+	colspan CDATA "1"
+	rowspan CDATA "1"
+	class CDATA #IMPLIED
+	>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../xsl/index.xsl" type="text/xsl" media="screen"?>
+<!DOCTYPE MASTER SYSTEM "../dtd/index.dtd">
+
+<index>
+	<presentation>
+		<paragraphe>Le master « informatique » a pour vocation la formation de professionnels de l'informatique au niveau bac+5. L'objectif est d'offrir aux étudiants une large palette de compétences et de savoirs afin de rendre accessible des emplois de haut niveau dans le monde de la recherche, dans celui de l'entreprise ou dans d'autres organisations. Notre ambition est de former des étudiants dont les compétences sont tout à fait comparables à celles acquises dans les meilleurs écoles d'ingénieurs.</paragraphe>
+		<paragraphe>Le Master informatique repose sur plus de 25 ans d'expérience d'enseignement d'informatique sur l'Université d'Aix-Marseille (maîtrise, DEA et DESS en informatique) et s'est structuré lors du passage au LMD. Si vous n'êtes pas familier des formations organisées suivant le schéma Licence/Master/Doctorat, nous vous conseillons de lire cette petite introduction.</paragraphe>
+		<liste>
+			<paragraphe>Le Master Informatique s'appuie principalement sur les compétences de deux laboratoires reconnus :</paragraphe>
+			<el><lien link="http://www.lif.univ-mrs.fr/">Laboratoire d'Informatique Fondamentale de Marseille (LIF)</lien></el>
+			<el><lien link="http://www.lsis.org/">Laboratoire des Sciences de l'Information et des Systèmes (LSIS)</lien></el>
+		</liste>
+		<paragraphe>La master est enseigné à Marseille sur le campus de Luminy (site sud) et sur le campus de l'Étoile (site nord) qui regroupe Château-Gombert et Saint-Jérôme.</paragraphe>
+		<liste>
+			<paragraphe>Notre offre de formation au niveau Bac+5 est organisée autour de deux axes forts :</paragraphe>
+			<el>Le master est structuré sous la forme d'une <lien link="Master1.xml">première année commune (M1)</lien> et dupliquée sur les sites sud et nord, suivie d'une deuxième année de spécialisation (M2).</el>
+			<el>La <b>deuxième année</b> est composée de sept spécialités. Deux à finalité recherche, et cinq à finalité professionnelle. Certaines spécialités sont ensuite déclinées en plusieurs parcours. Ces spécialités sont localisées à Luminy ou à Saint-Jérôme en fonction des compétences locales.</el>
+		</liste>
+	</presentation>
+	<specialite>
+		<paragraphe>Le tableau ci-dessous détaille l'architecture du Master Informatique.</paragraphe>
+		<table>
+		<tr>
+			<th colspan="6">Master Informatique</th>
+		</tr>
+		<tr>
+			<th>Années</th>
+			<th>Spécialités</th>
+			<th>Parcours</th>
+			<th>Code</th>
+			<th>Finalité</th>
+			<th>Lieu</th>
+		</tr>
+		<tr>
+			<td class="center">M1<br clear="none"/>&#10;Bac+4</td>
+			<td colspan="2"><lien link="M1.html">Tronc commun</lien></td>
+			<td class="center bold">M1</td>
+			<td class="center">-</td>
+			<td class="center">Luminyet<br clear="none"/>l'Étoile</td>
+		</tr><!-- ===== FSIL ================== -->
+		<tr>
+			<td class="center" rowspan="12">M2<br clear="none"/>&#10;Bac+5</td>
+			<td rowspan="2"><lien link="FSIL.html">Fiabilité, sécurité et intégration logicielle (<b>FSIL</b>)</lien></td>
+			<td><lien link="FSI.html">Fiabilité et sécurité informatique</lien></td>
+			<td class="bold center">FSI</td>
+			<td class="center">Pro.</td>
+			<td class="center">Luminy</td>
+		</tr>
+		<tr>
+			<td><lien link="ISL.html">Intégration de Systèmes Logiciels</lien></td>
+			<td class="bold center">ISL</td>
+			<td class="center">Pro.</td>
+			<td class="center">Luminy</td>
+		</tr><!-- ===== GL ================== -->
+		<tr>
+			<td colspan="2"><lien link="GL.html">Génie logiciel (<b>GL</b>)</lien></td>
+			<td class="bold center">GL</td>
+			<td class="center">Pro.</td>
+			<td class="center">St-Jérôme</td>
+		</tr><!-- ===== ID ================== -->
+		<tr>
+			<td rowspan="2"><lien link="ID.html">Informatique décisionnelle (<b>ID</b>)</lien></td>
+			<td><lien link="FED.html">Fouille et entrepôts de données</lien></td>
+			<td class="bold center">FED</td>
+			<td class="center">Pro.</td>
+			<td class="center">Luminy</td>
+		</tr>
+		<tr>
+			<td><lien link="RO.html">Recherche opérationnelle</lien></td>
+			<td class="bold center">RO</td>
+			<td class="center">Pro.</td>
+			<td class="center">Luminy</td>
+		</tr><!-- ===== IF ================== -->
+		<tr>
+			<td colspan="2"><lien link="IF.html">Informatique Fondamentale</lien></td>
+			<td class="bold center">IF</td>
+			<td class="center">Recherche</td>
+			<td class="center">Luminy</td>
+		</tr><!-- ===== RIM ================== -->
+		<tr>
+			<td colspan="2"><lien link="RIM.html">Recherche d'informations multimédia</lien></td>
+			<td class="bold center">RIM</td>
+			<td class="center">Pro.</td>
+			<td class="center">Luminy</td>
+		</tr><!-- ===== SIR ================== -->
+		<tr>
+			<td colspan="2"><lien link="SIR.html">Systèmes d'informations répartis</lien></td>
+			<td class="bold center">SIR</td>
+			<td class="center">Pro.</td>
+			<td class="center">St-Jérôme</td>
+		</tr><!-- ===== SIS ================== -->
+		<tr>
+			<td rowspan="3"><lien link="SIS.html">Sciences de l'information et des systèmes&#10;(<b>SIS</b>)</lien></td>
+			<td><lien link="INF.html">Informatique</lien></td>
+			<td class="bold center">INF</td>
+			<td class="center">Recherche</td>
+			<td class="center">St-Jérôme</td>
+		</tr>
+		<tr>
+			<td><lien link="IMA.html">Image</lien></td>
+			<td class="bold center">IMA</td>
+			<td class="center">Recherche</td>
+			<td class="center">Luminy</td>
+		</tr>
+		<tr>
+			<td><lien link="SYS.html">Systèmes</lien></td>
+			<td class="bold center">SYS</td>
+			<td class="center">Recherche</td>
+			<td class="center">St-Jérôme</td>
+		</tr>
+		</table>
+		<paragraphe>Le master est destiné aux étudiants ayant obtenu une Licence d'Informatique ou un diplôme équivalent.</paragraphe>
+	</specialite>
+	<debouches>
+		<paragraphe>L'effectif du Tronc Commun (M1) est estimé à 150 étudiants. Une maîtrise d'Informatique sera délivrée à l'issue de cette première année.</paragraphe>
+		<paragraphe>Les spécialités à finalité professionnelle du Master débouchent sur des emplois de niveau ingénieur et chef de projet en informatique. L'effectif prévu pour ces spécialités est d'une centaine d'étudiants (15 à 20 par parcours).</paragraphe>
+		<paragraphe>A l'issue des spécialités à finalité recherche, l'étudiant a le choix entre préparer une thèse de doctorat, ce qui lui ouvre le chemin vers les organismes publics d'enseignement supérieur et de recherche, et/ou occuper tout type de poste impliquant un travail de recherche, dans un département de recherche et développement par exemple, en France ou à l'étranger. L'effectif prévu pour ces spécialités est de 50 places.</paragraphe>
+	</debouches>
+	<descLMD>
+		<paragraphe>Le L.M.D. est structuré principalement en deux grades : la licence (trois années L1, L2 et L3) et le master (deux années M1 et M2). Une année correspond à 60 crédits répartis en deux semestres de 30 crédits chacun. Ces 30 crédits sont obtenus en suivant des unités d'enseignement (UE) de 3 ou 6 crédits. Un crédit représente 10h de travail encadrées. Une année est donc prévue pour 600h. Le schéma ci-dessous explique les équivalences entre anciennes et nouvelles formations.</paragraphe>
+		<table>
+			<tr>
+				<th>Année</th>
+				<th>Ancienne formation</th>
+				<th colspan="3">Nouvelle formation</th>
+			</tr>
+			<tr>
+				<td rowspan="2">Bac+1</td>
+				<td rowspan="4">DEUG</td>
+				<td rowspan="6">Licence</td>
+				<td rowspan="2">L1</td>
+				<td>S1</td>
+			</tr>
+			<tr>
+				<td>S2</td>
+			</tr>
+			<tr>
+				<td rowspan="2">Bac+2</td>
+				<td rowspan="2">L2</td>
+				<td>S3</td>
+			</tr>
+			<tr>
+				<td>S4</td>
+			</tr>
+			<tr>
+				<td rowspan="2">Bac+3</td>
+				<td rowspan="2">Licence</td>
+				<td rowspan="2">L3</td>
+				<td>S5</td>
+			</tr>
+			<tr>
+				<td>S6</td>
+			</tr>
+			<tr>
+				<td rowspan="2">Bac+4</td>
+				<td rowspan="2">Maîtrise</td>
+				<td rowspan="4">Master</td>
+				<td rowspan="2">M1</td>
+				<td>S1</td>
+			</tr>
+			<tr>
+				<td>S2</td>
+			</tr>
+			<tr>
+				<td rowspan="2">Bac+5</td>
+				<td rowspan="2">D.E.A. / D.E.S.S.</td>
+				<td rowspan="2">M2</td>
+				<td>S3</td>
+			</tr>
+			<tr>
+				<td>S4</td>
+			</tr>
+		</table>
+		<paragraphe>Les parcours de licence ou de master sont rangés dans un arbre à trois ou quatre niveaux. A la racine on trouve les domaines qui sont subdivisés en mentions. Les mentions peuvent être déclinées en spécialités elles mêmes contenant des options.</paragraphe>
+	</descLMD>
+</index>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ENTITY % common SYSTEM "common.dtd">
+%common;
+
+<!ELEMENT index ANY>
+<!ELEMENT presentation (paragraphe|liste|table)*>
+<!ELEMENT specialite (paragraphe|liste|table)*>
+<!ELEMENT debouches (paragraphe|liste|table)*>
+<!ELEMENT descLMD (paragraphe|liste|table)*>

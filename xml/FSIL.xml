@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../xsl/master.xsl" type="text/xsl" media="screen"?>
+<!DOCTYPE masterInfo SYSTEM "../dtd/master.dtd">
+
+<master>
+	<parcours annee="FSIL">
+		<presentation>
+			<refprof id="denis.lugiez"/>
+			<refprof id="jean-luc.massat"/>
+			<description>
+				<liste>
+					<paragraphe>Cette spécialité à finalité professionnelle est une composante du Master Informatique. Elle est déclinée en deux <b>parcours</b> qui partagent un tronc-commun au début de la deuxième année (semestre 3). Consultez ces deux parcours pour avoir une information plus précise :</paragraphe>
+					<el>Fiabilité et sécurité informatique (FSI)</el>
+					<el>Intégration de systèmes logiciels (ISL)</el>
+				</liste>
+			</description>
+		</presentation>
+	</parcours>
+</master>

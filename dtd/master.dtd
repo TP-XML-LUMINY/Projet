@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ENTITY % common SYSTEM "common.dtd">
+%common;
+
+<!ELEMENT master (menu?,(parcours)+)>
+<!ELEMENT parcours (intervenants?,presentation,competences?,connaissances?,programme*,politique_des_stages?,aspects_formation?,modalites_pedagogiques?,enseignements_delocalises?,conditions_admission?,debouches?,poursuites?)>
+
+<!ELEMENT menu (lien)+>
+<!ELEMENT intervenants (enseignant)*>
+<!ELEMENT presentation ((enseignant|refprof)*,lieu?,description?)>
+<!ELEMENT competences (paragraphe|liste)+>
+<!ELEMENT connaissances (paragraphe|liste)+>
+<!ELEMENT programme (paquet_unites)*>
+<!ELEMENT politique_des_stages (paragraphe|liste)+>
+<!ELEMENT aspects_formation (paragraphe|liste)+>
+<!ELEMENT modalites_pedagogiques (paragraphe|liste)+>
+<!ELEMENT enseignements_delocalises (paragraphe|liste)+>
+<!ELEMENT conditions_admission (pre_requis*,paragraphe*,lien)>
+<!ELEMENT debouches (paragraphe|liste)+>
+<!ELEMENT poursuites (paragraphe|liste)+>
+
+<!ELEMENT enseignant (nom,prenom?,mail+,site_web*)>
+<!ELEMENT lieu (campus)+>
+<!ELEMENT description (paragraphe|liste)+>
+<!ELEMENT paquet_unites (nom?,(unite|refunite)+)>
+<!ELEMENT unite (nom,credit,(refprof|resumes|plan|lieu)*)>
+<!ELEMENT refunite EMPTY>
+<!ELEMENT plan (nom,nb_h)>
+<!ELEMENT resumes (((paragraphe|chapitre|liste)+,pre_requis?)|(absent))>
+<!ELEMENT absent EMPTY>
+<!ELEMENT chapitre (titre,(paragraphe|liste)*)>
+<!ELEMENT pre_requis (paragraphe|liste)+>
+
+<!ELEMENT nb_h (#PCDATA)>
+<!ELEMENT titre (#PCDATA|b|i|tt|u)*>
+<!ELEMENT nom (#PCDATA|b|i|tt|u)*>
+<!ELEMENT prenom (#PCDATA|b|i|tt|u)*>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT campus (#PCDATA|b|i|tt|u)*>
+<!ELEMENT site_web (#PCDATA)>
+<!ELEMENT credit (#PCDATA)>
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT refprof EMPTY>
+<!ELEMENT resume (#PCDATA|b|i|tt|u)*>
+
+<!ATTLIST pre_requis
+	type CDATA #IMPLIED
+	>
+<!ATTLIST parcours
+	annee CDATA #REQUIRED
+	>
+<!ATTLIST programme
+	semestre CDATA #REQUIRED
+	>
+<!ATTLIST enseignant
+	id ID #IMPLIED
+	>
+<!ATTLIST unite
+	id ID #REQUIRED
+	>
+<!ATTLIST refunite
+	id CDATA #REQUIRED
+	>
+<!ATTLIST ref
+	idref IDREF #REQUIRED
+	>
+<!ATTLIST refprof
+	id CDATA #REQUIRED
+	>
