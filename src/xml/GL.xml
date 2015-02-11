@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../xsl/master.xsl" type="text/xsl" media="screen"?>
+<!DOCTYPE masterInfo SYSTEM "../dtd/master.dtd">
+
+<master>
+	
+	<parcours annee="GL">
+		<presentation>
+			<refprof id="djamal.habet"/>
+			<lieu>
+				<campus>Campus de Saint-Jérôme</campus>
+			</lieu>
+			<description>
+				<paragraphe>La production d'un logiciel est une tâche très complexe mettant en oeuvre plusieurs ressources, notamment humaines, matériels et technologiques. La spécialité « Génie logiciel » a pour objectif d'apporter aux étudiants les compétences approfondies requises pour pouvoir intervenir dans toutes les phases de la production logiciel.</paragraphe>
+			</description>
+		</presentation>
+		<competences>
+			<paragraphe>Le diplômé acquiers les compétences approfondies pour être capable d'intervenir dans toutes les phases du cycle de vie d'un logiciel à la fois au niveau de la conception et la spécification (patrons de conception, UML ...), des architectures et composants logiciels (JEE ...), des IHM, de la qualité logicielle, de la validation logiciels, des ateliers de génie logiciels et des technologies du Web. La gestion de projet est aussi aborder pour la maîtrise des grands projets informatiques.</paragraphe>
+		</competences>
+		<connaissances>
+			<paragraphe>La spécialité « Génie logiciel » a pour objectif d'apporter aux étudiants les compétences approfondies requises pour pouvoir intervenir dans toutes les phases de la production logiciel à la fois au niveau de la conception et la spécification (patrons de conception, UML ...), des architectures et composants logiciels (JEE ...), des IHM, de la qualité logicielle, de la validation logiciels, des ateliers de génie logiciels et des technologies du Web. La gestion de projet est aussi aborder pour la maîtrise des grands projets informatiques.</paragraphe>
+		</connaissances>
+		<programme semestre="3">
+			<paquet_unites>
+				<nom>Unités obligatoires </nom>
+				<refunite id="ENSINCU41"/>
+				<refunite id="ENSINCU42"/>
+				<refunite id="ENSINCU43"/>
+				<refunite id="ENSINCU44"/>
+				<refunite id="ENSINCU45"/>
+				<refunite id="ENSINCU46"/>
+				<refunite id="ENSINCU47"/>
+				<refunite id="ENSINCU27"/>
+				<refunite id="ENSINCU28"/>
+			</paquet_unites>
+		</programme>
+		<programme semestre="4">
+			<paquet_unites>
+				<nom>Unités obligatoires</nom>
+				<refunite id="ENSINDU3"/>
+				<refunite id="ENSINDU4"/>
+			</paquet_unites>
+		</programme>
+		<politique_des_stages>
+			<paragraphe>Les stages en entreprise sont obligatoires (avec une durée de 4 à 6 mois). La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues).</paragraphe>
+			<paragraphe>Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. Les sujets doivent vérifier un cahier des charges qui est donné aux étudiants en début d'année. Le stage peut alors débuter.</paragraphe>
+			<paragraphe>Durant la période de stage, un rapport d'avancement est demandé régulièrement au stagiaire (tous les mois). Les éventuels problèmes sont ainsi décelés au plus tôt. A l'issue du stage, le stagiaire doit fournir un rapport de stage et faire une soutenance orale. Il est noté sur la base de son rapport, de sa présentation et de l'évaluation du stage faite par son tuteur en entreprise.</paragraphe>
+		</politique_des_stages>
+		<conditions_admission>
+			<pre_requis type="obligatoires">
+				<paragraphe>Une première année de Master à dominante informatique (60 crédits) ou tout diplôme équivalent.</paragraphe>
+			</pre_requis>
+			<paragraphe>L'entrée à la spécialité Génie logiciel se fait uniquement sur dossier. Une première année de Master à dominante informatique est requise (60 crédits). Tout autre diplôme de niveau équivalent sera également étudié. La deuxième année du Master est également accessible par le biais de la VAP et de la VAE.</paragraphe>
+			<lien link="http://masterinfo.univ-mrs.fr/candidature/">Déposer une candidature pour 2014/2015.</lien>
+		</conditions_admission>
+		<debouches>
+			<paragraphe>Ingénieur informaticien, Ingénieur d’études et de développement, Ingénieur qualité logicielle, Architecte JEE, Architecte d’applications, Développeur et concepteur d’applications, Ingénieur développeur Web, Chef de projets, Consultant.</paragraphe>
+		</debouches>
+		<poursuites>
+			<paragraphe>Les diplômés peuvent poursuivre des formations plus axées sur la gestion des projets scientifiques pour ceux qui visent des postes à forte responsabilité. La préparation d'un doctorat est également possible.</paragraphe>
+		</poursuites>
+	</parcours>
+</master>

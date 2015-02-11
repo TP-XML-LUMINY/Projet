@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repertoire SYSTEM "../dtd/contacts.dtd">
+
+<repertoire>
+	<enseignant id="djamal.habet">
+		<nom>HABET</nom>
+		<prenom>Djamal</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>djamal.habet@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="pablo.arrighi">
+		<nom>ARRIGHI</nom>
+		<prenom>Pablo</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>pablo.arrighi@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~pablo.arrighi/</site_web>
+	</enseignant>
+	<enseignant id="frederic.olive">
+		<nom>OLIVE</nom>
+		<prenom>Frederic</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>frederic.olive@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~frederic.olive/</site_web>
+	</enseignant>
+	<enseignant id="emmanuel.godard">
+		<nom>GODARD</nom>
+		<prenom>Emmanuel</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>emmanuel.godard@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~emmanuel.godard/</site_web>
+	</enseignant>
+	<enseignant id="santocanale.luigi">
+		<nom>SANTOCANALE</nom>
+		<prenom>Luigi</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>santocanale.luigi@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~luigi.santocanale/</site_web>
+	</enseignant>
+	<enseignant id="remi.morin">
+		<nom>MORIN</nom>
+		<prenom>Rémi</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>remi.morin@lif.univ-mrs.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~remi.morin/</site_web>
+	</enseignant>
+	<enseignant id="marie-helene.stefanini">
+		<nom>STEFANINI</nom>
+		<prenom>Marie-Hélène</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>marie-helene.stefanini@lif.univ-mrs.fr</mail>
+		<site_web>http://www.dil.univ-mrs.fr/lmdufr/annuaire-stefanini.html</site_web>
+	</enseignant>
+	<enseignant id="magali.contensin">
+		<nom>CONTENSIN</nom>
+		<prenom>Magali</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>magali.contensin@univ-amu.fr</mail>
+		<site_web>http://magali.contensin.free.fr/html/XML/index.php</site_web>
+	</enseignant>
+	<enseignant id="peter.niebert">
+		<nom>NIEBERT</nom>
+		<prenom>Peter</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>peter.niebert@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~peter.niebert/</site_web>
+	</enseignant>
+	<enseignant id="frederic.bechet">
+		<nom>BECHET</nom>
+		<prenom>Frederic </prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>frederic.bechet@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~frederic.bechet/</site_web>
+	</enseignant>
+	<enseignant id="amine.hamri">
+		<nom>HAMRI</nom>
+		<prenom>Maamar el amine</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>amine.hamri@univ-amu.fr</mail>
+		<site_web>http://itim.unige.it/iepal/u_us3/cv_f_a.html</site_web>
+	</enseignant>
+	<enseignant id="hachem.kadri">
+		<nom>KADRI</nom>
+		<prenom>Hachem</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>hachem.kadri@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~hachem.kadri/</site_web>
+	</enseignant>
+	<enseignant id="alain.dal-molin">
+		<nom>DAL MOLIN</nom>
+		<prenom>Alain</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>alain.dal-molin@univ-amu.fr</mail>
+		<site_web>Adresse introuvable</site_web>
+	</enseignant>
+	<enseignant id="lydie.rene">
+		<nom>RENE CHABAROT</nom>
+		<prenom>Lydie</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>lydie.rene@univ-amu.fr</mail>
+		<site_web>http://formations.univ-amu.fr/ME5SIN-ENSINBU2.html</site_web>
+	</enseignant>
+	<enseignant id="omar.boucelma">
+		<nom>BOUCELMA</nom>
+		<prenom>Omar</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>omar.boucelma@univ-amu.fr</mail>
+		<site_web>http://www.lsis.org/master-recherche-sis/spip.php?id_rubrique=66</site_web>
+	</enseignant>
+	<enseignant id="jean-luc.massat">
+		<nom>MASSAT</nom>
+		<prenom>Jean-Luc</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>jean-luc.massat@univ-amu.fr</mail>
+		<site_web>http://www.lif.univ-mrs.fr/annuaire/personne/1155980</site_web>
+	</enseignant>
+	<enseignant id="victor.cepoi">
+		<nom>CEPOI</nom>
+		<prenom>Victor</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>victor.cepoi@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~victor.chepoi/</site_web>
+	</enseignant>
+	<enseignant id="pierre.siegel">
+		<nom>SIEGEL</nom>
+		<prenom>Pierre</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>pierre.siegel@univ-amu.fr</mail>
+		<site_web>http://www.lif.univ-mrs.fr/annuaire/personne/1213272</site_web>
+	</enseignant>
+	<enseignant id="basile.couetoux">
+		<nom>COUETOUX</nom>
+		<prenom>Basile</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>basile.couetoux@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~basile.couetoux/</site_web>
+	</enseignant>
+	<enseignant id="shantanu.das">
+		<nom>DAS</nom>
+		<prenom>Shantanu</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>shantanu.das@univ-amu.fr</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~shantanu.das/</site_web>
+	</enseignant>
+	<enseignant id="kevin.perrot">
+		<nom>PERROT</nom>
+		<prenom>Kevin</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>kevin.perrot@gmail.com</mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~kevin.perrot/</site_web>
+	</enseignant>
+	<enseignant id="nadia.creignou">
+		<nom>CREIGNOU</nom>
+		<prenom>Nadia</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>nadia.creignou@univ-amu.fr</mail>
+		<site_web>http://www.lif.univ-mrs.fr/annuaire/personne/1155937</site_web>
+	</enseignant>
+	<enseignant id="guyslain.naves">
+		<nom>NAVES</nom>
+		<prenom>Guyslain</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>guyslain.naves@lif.univ-mrs.fr</mail>
+		<site_web>http://assert-false.net/guyslain/</site_web>
+	</enseignant>
+	<enseignant id="noel.novelli">
+		<nom>NOVELLI</nom>
+		<prenom>Noel</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>noel.novelli@univ-amu.fr </mail>
+		<site_web>http://pageperso.lif.univ-mrs.fr/~noel.novelli/</site_web>
+	</enseignant>
+	<!-- FIN M1 -->
+	<enseignant id="roland.agopian">
+		<nom>AGOPIAN</nom>
+		<prenom>Roland</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>roland.agopian@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="clara.bertolissi">
+		<nom>BERTOLISSI</nom>
+		<prenom>Clara</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>clara.bertolissi@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="martine.broche">
+		<nom>BROCHE</nom>
+		<prenom>Martine</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>martine.broche@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="isabel.demongodin">
+		<nom>DEMONGODIN</nom>
+		<prenom>Isabelle</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>isabel.demongodin@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="bertrand.estellon">
+		<nom>ESTELLON</nom>
+		<prenom>Bertrand</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>bertrand.estellon@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="benoit.favre">
+		<nom>FAVRE</nom>
+		<prenom>Benoit</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>benoit.favre@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="line.jakubiec">
+		<nom>JAMET</nom>
+		<prenom>Line</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>line.jakubiec@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="arnaud.labourel">
+		<nom>LABOUREL</nom>
+		<prenom>Arnaud</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>arnaud.labourel@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="claude.lai">
+		<nom>LAI</nom>
+		<prenom>Claude</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>claude.lai@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="denis.lugiez">
+		<nom>LUGIEZ</nom>
+		<prenom>Denis</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>denis.lugiez@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="stephane.michel">
+		<nom>MICHEL</nom>
+		<prenom>Stephane</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	</enseignant>
+	<enseignant id="nicola.olivetti">
+		<nom>OLIVETTI</nom>
+		<prenom>Nicola</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>nicola.olivetti@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="hery-liva.ralaivola">
+		<nom>RALAIVOLA</nom>
+		<prenom>Hery Liva</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>hery-liva.ralaivola@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="pierre-alain.reynier">
+		<nom>REYNIER</nom>
+		<prenom>Pierre-Alain</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>pierre-alain.reynier@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="claude.sabatier">
+		<nom>SABATIER</nom>
+		<prenom>Claude</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>claude.sabatier@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="sana.sellami">
+		<nom>SELLAMI</nom>
+		<prenom>Sana</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>sana.sellami@univ-amu.fr</mail>
+	</enseignant>
+	<enseignant id="yann.vaxes">
+		<nom>VAXES</nom>
+		<prenom>Yann</prenom>
+		<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+		<mail>yann.vaxes@univ-amu.fr</mail>
+	</enseignant>
+</repertoire>
+
+<!--
+<responsable>
+<ref idref="Frederic_b">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite><liste><el>M2 Spécialité Recherche d'informations multimédia (RIM)</el></liste></responsablilite>
+</responsable>
+<responsable>
+<ref idref="Omar">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Recherche d'informations multimédia (RIM)</el>
+	<el>Mention Informatique</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+<responsable>
+<ref idref="HABET">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Génie logiciel (GL)</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+	<responsable>
+<ref idref="LUGIEZ">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Fiabilité, sécurité et intégration logicielle (FSIL), parcours Fiabilité et sécurité informatique (FSI)</el>
+	<el>Mention Informatique</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+	<responsable>
+<ref idref="Massat">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Fiabilité, sécurité et intégration logicielle (FSIL), parcours Intégration de systèmes logiciels (ISL)</el>
+	<el>Mention Informatique</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+	<responsable>
+<ref idref="Massat">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Fiabilité, sécurité et intégration logicielle (FSIL), parcours Intégration de systèmes logiciels (ISL)</el>
+	<el>Mention Informatique</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+	<responsable>
+<ref idref="Rémi">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M1 Informatique</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+		<responsable>
+<ref idref="Noel">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Informatique décisionnelle (ID), parcours Fouille et entrepôts de données (FED)</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+
+	<responsable>
+<ref idref="Nicola">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité SIS parcours Informatique</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+	
+	<responsable>
+<ref idref="Hery">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Informatique fondamentale (IF)</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+<responsable>
+<ref idref="REYNIER">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Informatique fondamentale (IF)</el>
+	</liste>
+	</responsablilite>
+</responsable>
+
+<responsable>
+<ref idref="VAXES">enseignant</ref>
+	<lieu>UFR Sciences, Université d'Aix-Marseille</lieu>
+	<responsablilite>
+	<liste>
+	<el>M2 Spécialité Informatique décisionnelle (ID), parcours Recherche opérationnelle (RO)</el>
+	</liste>
+	</responsablilite>
+</responsable>
+-->
