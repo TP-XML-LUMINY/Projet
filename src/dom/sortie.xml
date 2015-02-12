@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<paquet_unites>
+<unite>Génie Logiciel</unite>
+<unite>Modèles à évènements discrets</unite>
+<unite>Introduction à l'apprentissage automatique </unite>
+<unite>Complexité</unite>
+<unite>Réseaux</unite>
+<unite>Programmation fonctionnelle</unite>
+<unite>Programmation parallèle</unite>
+<unite>Programmation logique</unite>
+<unite>Outils de l'internet</unite>
+<unite>Système embarqué</unite>
+<unite>Fondamentaux pour l'ingénierie des langues</unite>
+<unite>Anglais</unite>
+<unite>Intégration des systèmes d'information</unite>
+<unite>Implémentation et optimisation des bases de données</unite>
+<unite>Intelligence artificielle</unite>
+<unite>Algorithme à performance garantie </unite>
+<unite>Pratique de la cryptographie</unite>
+<unite>Communication</unite>
+<unite>Bases de données avancées</unite>
+<unite>XML</unite>
+<unite>Algorithmique et recherche opérationnelle</unite>
+<unite>Projet</unite>
+<unite>Stage de deux mois</unite>
+<unite>Sémantique</unite>
+<unite>Algorithmique distribuée</unite>
+<unite>Algorithmique et complexité</unite>
+<unite>Fouille de données avancée</unite>
+<unite>Géométrie discrète</unite>
+<unite>Algorithmique des graphes et réseaux</unite>
+<unite>Espaces métriques : structure et algorithmiques</unite>
+<unite>Optimisation combinatoire et programmation en nombres entiers</unite>
+<unite>Logiques et jeux</unite>
+<unite>Algorithmique distribuée 2</unite>
+<unite>Vérification et sécurité</unite>
+<unite>Modèles du parallélisme</unite>
+<unite>Modèles et connaissances linguistiques pour le TAL</unite>
+<unite>Logique, automates et aspects formels de la théorie des langages</unite>
+<unite>Syntaxe et sémantique : modèles et outils</unite>
+<unite>Modèles numériques pour le TAL</unite>
+<unite>Applications du Traitement Automatique de la Langue (TAL)</unite>
+<unite>Algorithmique des chaînes de caractères</unite>
+<unite>Classification et phylogénie</unite>
+<unite>Modèles markoviens</unite>
+<unite>Logiques non-standards</unite>
+<unite>Anglais 2</unite>
+<unite>Communication 2</unite>
+<unite>Fiabilité logicielle 1</unite>
+<unite>Statistique inférentielle</unite>
+<unite>Plateforme JEE</unite>
+<unite>Systèmes hétérogènes</unite>
+<unite>Sécurité internet et réseau</unite>
+<unite>Fiabilité logicielle 2</unite>
+<unite>Qualité</unite>
+<unite>Sécurité des systèmes embarqués</unite>
+<unite>Administration système et réseau</unite>
+<unite>Méthodes de développement</unite>
+<unite>Architecture logicielle JEE</unite>
+<unite>Intégration des données</unite>
+<unite>Nouveaux défis en apprentissage</unite>
+<unite>Administration et alimentation de BD</unite>
+<unite>Qualité logicielle : outils et méthodes</unite>
+<unite>Spécification logicielle</unite>
+<unite>Conception logicielle</unite>
+<unite>Architecture logicielle JEE</unite>
+<unite>Technologies du Web et Web 2.0</unite>
+<unite>XML avancé</unite>
+<unite>Gestion de projet</unite>
+<unite>Optimisation linéaire</unite>
+<unite>Fouille de données (FD)</unite>
+<unite>Théorie de l'apprentissage</unite>
+<unite>Méthodologie de conception d'applications décisionnelles</unite>
+<unite>Fouille de Données Avancée</unite>
+<unite>Modélisation en RO</unite>
+<unite>Recherche locale</unite>
+<unite>Traitement automatique de la parole</unite>
+<unite>Apprentissage automatique et classification</unite>
+<unite>Recherche et indexation des données multimédia</unite>
+<unite>Inférence grammaticale</unite>
+<unite>Architecture d'applications réparties sur le Web</unite>
+<unite>Services Web et Business Process</unite>
+<unite>Processus d'entreprise - ERP</unite>
+<unite>Développement d'applications mobiles</unite>
+<unite>Gestion de projet</unite>
+<unite>Nouvelles applications du Traitement Automatique de la Langue (TAL)</unite>
+<unite>Projet d'entreprise</unite>
+<unite>Cloud computing</unite>
+<unite>Recherche d'information</unite>
+<unite>Apprentissage numérique</unite>
+<unite>Entrepôt de données</unite>
+<unite>Fouille de bases de données</unite>
+<unite>Entrepôts de données</unite>
+<unite>Communication scientifique</unite>
+<unite>Initiation à la recherche</unite>
+<unite>Projet industriel de mise en application</unite>
+<unite>Stage en entreprise</unite>
+<unite>AU4 : Classification, apprentissage et décision</unite>
+<unite>IM8 : Segmentation 2</unite>
+<unite>RTC : Concepts fondamentaux de la modélisation</unite>
+<unite>RI1 : Fondements logiques et algorithmiques</unite>
+<unite>RI2 : Fondements de programmation et de satisfiabilité</unite>
+<unite>RI3 : Représentation des connaissances : Approfondissement et applications</unite>
+<unite>RI4 : Planification, configuration et raisonnement temporel et spatial</unite>
+<unite>RI5 : Agents et ontologies pour les systèmes d'information et le web sémantique</unite>
+<unite>RI6 : Approches avancées de conception de systèmes d'information</unite>
+<unite>RI7 : Extraction et intégration d'information du web</unite>
+<unite>RI8 : Web services</unite>
+<unite>RIS1 : Traitement de données multimodales</unite>
+<unite>IM6 : Animation et simulation physique</unite>
+<unite>RIS2 : Formalismes à événements discrets</unite>
+<unite>RIS3 : Simulation distribuée et modèles hétérogènes</unite>
+<unite>RIS4 : Aide à la décision</unite>
+<unite>R2 : Communication et interaction homme-machine</unite>
+<unite>RE1 : Problématique, démarche, modèles et objects de conception</unite>
+<unite>RE2 : Modèles et objets de conception</unite>
+<unite>RE3 : Systèmes intelligents</unite>
+<unite>RE4 : Conception et architecture</unite>
+<unite>RO1 : Une UE extérieure de 3 crédits (validation requise)</unite>
+<unite>RO2 : Une UE extérieure de 6 crédits (validation requise)</unite>
+<unite>IM10 : Imagerie médicale</unite>
+<unite>RS1 : Commande et diagnostic des systèmes complexes</unite>
+<unite>RS2 : Systèmes à structure variable et planification</unite>
+<unite>RS3 : Génie électrique et mécatronique</unite>
+<unite>RS4 : Pronostic des systèmes</unite>
+<unite>RS5 : Procédés à énergie renouvelable</unite>
+<unite>RS6 : Réseaux de neurones</unite>
+<unite>RS7 : Conduite et gestion de la production</unite>
+<unite>IM11 : Modélisation algorithmique, différentielle et discrète</unite>
+<unite>IM15 : Modèles pour la production d'images, traitement et visualisation de données géométriques à haute-performance</unite>
+<unite>IM12 : Analyse de vidéo et reconnaissance de forme</unite>
+<unite>IM13 : Vision industrielle</unite>
+<unite>IM14 : Modèles pour la production d'images : CAO et jeux vidéo</unite>
+<unite>R bib : Étude bibliographique</unite>
+<unite>Stage de recherche</unite>
+</paquet_unites>

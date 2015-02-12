@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.stream.XMLOutputFactory;
+import javax.xml.stream.XMLStreamWriter;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerFactory;
@@ -24,6 +26,7 @@ public class Analyseur_dom {
 	Document document;
 	ArrayList<String>Liste_unites;
 	ArrayList<String>Liste_prof;
+	Document sortie = null;
 
 	public Analyseur_dom(String file){
 		setFile(file);
@@ -38,6 +41,7 @@ public class Analyseur_dom {
 		Liste_unites = new ArrayList<String>();
 		Liste_prof = new ArrayList<String>();
 		
+		
 		Affichage_prof();
 		Affichage_unites();
 		try {
@@ -50,17 +54,21 @@ public class Analyseur_dom {
 
 
 	public void Affichage_unites(){
+		//sortie.createElement("liste_unites");
 		NodeList list_node = document.getElementsByTagName("unite");
-
+		
 		for (int i = 0; i<list_node.getLength(); i++) {
 			Node  name =  list_node.item(i);
 			Element item = (Element) name;
 
 			Node node = item.getElementsByTagName("nom").item(0);
 			Liste_unites.add(node.getFirstChild().getNodeValue());
+			//sortie.getElementsByTagName("liste_unites").item(i).appendChild(node);
 			//System.out.println("Matier : "+(i+1)+" "+node.getFirstChild().getNodeValue());
-
+			
 		}
+	
+		
 	}	
 
 
@@ -98,23 +106,12 @@ public class Analyseur_dom {
 				}
 				doc.appendChild(monElement_unite);
 				
-				
-				/*for (int i = 0; i < Liste_prof.size(); i++) {
-					Element monElementFils = doc.createElement("prof");
-					monElementFils.appendChild(doc.createTextNode(Liste_prof.get(i)));
-					paquet_prof.appendChild(monElementFils);
-				}
-				doc.appendChild(paquet_prof);*/
-				
-				
-				
-	
 				TransformerFactory myFactory = TransformerFactory.newInstance();
 				Transformer transformer = myFactory.newTransformer();
 				transformer.setOutputProperty(OutputKeys.ENCODING, "iso-8859-1");
 				transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 				transformer.transform(new DOMSource(doc),
-						new StreamResult(System.out));
+						new StreamResult(new File("./src/dom/sortie.xml")));
 	}
 	
 
